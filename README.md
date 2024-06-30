@@ -2,20 +2,12 @@
 
 🎯 **Mission**: Crafting Exceptional Software Solutions to Empower Global Users
 
-🌐 **Location**: Bengaluru Karnataka.
+🌐 **Location**: Gurugram Haryana.
 
 👨‍💻 **Professional Highlights**:
 
-- 🏢 **DaTopics**: Engaging in the Development and Enhancement of Revolutionary Software Products and Services.
-- 💼 **Microsoft Internship**: Leveraging React Framework and JavaScript# Programming Language to Drive Innovation.
+- 🏢 **Planet Spark**: Engaging in the Development and Enhancement of Revolutionary Software Products and Services.
 - 💡 **One Year Experience**: Mastery in MERN (MongoDB, Express.js, React.js, Node.js) Stack Development.
-
-🔥 **Passion for Problem-Solving**:
-
-- 🏆 **CodeForces Expert**: Proven Track Record of Excellence in Competitive Programming
-- 🌟 **IICC Finalist**: Recognized for Outstanding Skills in Competitive Coding
-- ⚔️ **Code Gladiators Finalist**: Thriving in Intense Programming Battles
-- 🌍 **Global Rank Holder at Coding Ninjas**: Demonstrated Ability to Excel on a Global Scale.
 
 🎓 **Educational Background**:
 
@@ -32,4 +24,4 @@
 
 - 💡 Open to Exciting Opportunities in Software Development and Web Development
 - 🌱 Eager to Collaborate on Innovative Projects and Drive Meaningful Impact
-- 📩 Reach Out: divyanshrajpoot71@gmail.com
+- 📩 Reach Out: divyanshrajpoot90@gmail.com
