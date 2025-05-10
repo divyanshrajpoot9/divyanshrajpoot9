@@ -23,5 +23,4 @@
 💼 **Looking for Opportunities**:
 
 - 💡 Open to Exciting Opportunities in Software Development and Web Development
-- 🌱 Eager to Collaborate on Innovative Projects and Drive Meaningful Impact
-- 📩 Reach Out: divyanshrajpoot90@gmail.com
+- 🌱 Eager to Collaborate on Innovative Projects and Drive Meaningful Impact.
